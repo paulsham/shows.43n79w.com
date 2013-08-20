@@ -6,13 +6,28 @@ describe('Service: i18nService', function () {
   beforeEach(module('shows.43n79w.comApp'));
 
   // instantiate service
-  var i18nService;
-  beforeEach(inject(function (_i18nService_) {
-    i18nService = _i18nService_;
+  var i18nService, $httpBackend, $rootScope;
+
+  beforeEach(inject(function ($injector) {
+    $rootScope = $injector.get('$rootScope');
+    $httpBackend = $injector.get('$httpBackend');
+
+    $httpBackend
+      .whenGET('/i18n/en-CA.json')
+      .respond({
+        'foo': 'bar'
+      });
+
+    $httpBackend.expectGET('/i18n/en-CA.json');
+    i18nService = $injector.get('i18nService');
+    $httpBackend.flush();
   }));
 
   it('should do something', function () {
     expect(!!i18nService).toBe(true);
   });
 
+  it('should have value \'bar\' for key \'foo\'', function () {
+    expect(i18nService.get('foo')).toBe('bar');
+  });
 });

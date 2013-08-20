@@ -6,13 +6,42 @@ describe('Service: concertsService', function () {
   beforeEach(module('shows.43n79w.comApp'));
 
   // instantiate service
-  var concertsService;
-  beforeEach(inject(function (_concertsService_) {
-    concertsService = _concertsService_;
+  var concertsService, $httpBackend;
+  beforeEach(inject(function ($injector) {
+    concertsService = $injector.get('concertsService');
+    $httpBackend = $injector.get('$httpBackend');
   }));
 
   it('should do something', function () {
     expect(!!concertsService).toBe(true);
+  });
+
+  it('should be able to retrieve an array of shows', function () {
+    $httpBackend
+      .when('GET', 'http://10.0.1.12/fastcgi')
+      .respond({
+        shows: [{ artist: 'a', 'date': '2013-08-20T00:00:00Z', 'venue': 'b' },{ artist: 'a', 'date': '2013-08-20T00:00:00Z', 'venue': 'b' },{ artist: 'a', 'date': '2013-08-20T00:00:00Z', 'venue': 'b' }]
+      });
+
+    var _didLoad = false;
+    var _shows;
+
+    $httpBackend.expectGET('http://10.0.1.12/fastcgi');
+    concertsService.findAll()
+      .success(function (shows) {
+        _didLoad = true;
+        _shows = shows;
+      });
+
+    waitsFor(function () {
+      return _didLoad;
+    }, 'Shows to load');
+
+    runs(function () {
+      expect(_shows.length).toBe(3);
+    });
+
+    $httpBackend.flush();
   });
 
 });

@@ -12,7 +12,7 @@ angular.module('shows.43n79w.comApp')
       throw new Error('i18nService: the HTML document must contain a valid HTML tag such as <html lang="en-CA">');
     }
 
-    locale = angular.element($html[0]).attr('lang');
+    locale = angular.element($html[0]).attr('lang') || 'en-CA';
     resourcePath = resourcePath.replace('[[locale]]', locale);
 
     console.log('i18nService: initializing with language ' + locale);
