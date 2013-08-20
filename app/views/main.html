@@ -1,0 +1,14 @@
+<div class="hero-unit" async-view data-load-on="i18nServiceDidLoad" data-load-class="async-view-loading">
+  <h1>{{ 'main.title' | i18n }}</h1>
+  <p>Sort by: <button ng-click="sortByName()">Name</button> | <button ng-click="sortByDate()">Date</button> | <button ng-click="sortByVenue()">Venue</button></p>
+  <div async-view data-load-until="concerts.length > 0" data-load-class="async-view-loading" ng-show="sortBy == 'name'">
+    <h2>{{ 'main.subTitle' | i18n }}</h2>
+    <div class="concert-view" concert="concert" ng-repeat="concert in concerts"></div>
+  </div>
+  <div ng-show="sortBy == 'date'">
+    <div class="date-view" date-string="date" concerts="dates[date]" ng-repeat="date in allDates"></div>
+  </div>
+  <div ng-show="sortBy == 'venue'">
+    <div class="venue-view" venue="venue" concerts="venues[venue]" ng-repeat="venue in allVenues"></div>
+  </div>
+</div>
