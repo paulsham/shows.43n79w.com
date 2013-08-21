@@ -1,5 +1,5 @@
 <h3 class="date">{{ 'day.' + date.getDay() | i18n }} {{ 'month.' + (date.getMonth() + 1) | i18n }} {{ date.getDate() }}, {{ date.getFullYear() }}</h3>
 <div ng-repeat="concert in concerts">
-  <p>{{ concert.artist }} @ {{ concert.venue }}</p>
+  <div class="concert"><span class="artist">{{ concert.artist }}</span><span class="venue">{{ concert.venue }}</span></div>
 </div>
 

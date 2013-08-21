@@ -23,13 +23,14 @@ angular.module('shows.43n79w.comApp')
 
     concertsService.findAll()
       .success(function (concerts) {
-        concertsService.sort(concerts, { sortBy: 'date' });
+        concertsService.sort(concerts, { sortBy: 'name' });
         $scope.concerts = concerts;
 
         $scope.dates = concertsService.groupByDate(concerts);
         for (var date in $scope.dates) {
           $scope.allDates.push(date);
         }
+        $scope.allDates.sort();
 
         $scope.venues = concertsService.groupByVenues(concerts);
         for (var venue in $scope.venues) {

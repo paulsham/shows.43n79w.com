@@ -19,7 +19,7 @@ angular.module('shows.43n79w.comApp')
           }
         };
 
-        var xhr = $http.get('http://10.0.1.12/fastcgi');
+        var xhr = $http.get('/json/shows.json');
 
         xhr.success(function (data, status, headers, config) {
           var concerts = data.shows;
@@ -36,7 +36,6 @@ angular.module('shows.43n79w.comApp')
       groupByDate: function (concerts) {
         var dates = {};
         for (var i = 0, length = concerts.length; i < length; i++) {
-          //var date = concerts[i].date.getFullYear() + '-' + (concerts[i].date.getMonth()+1) + '-' + concerts[i].date.getDay();
           var date = concerts[i].date.toISOString();
 
           if (! dates[date]) {
@@ -71,7 +70,7 @@ angular.module('shows.43n79w.comApp')
               break;
             default:
               sortFn = function (a, b) {
-                if (a.name < b.name) {
+                if (a.artist < b.artist) {
                   return -1;
                 }
                 else {

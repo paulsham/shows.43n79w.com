@@ -1,0 +1,1264 @@
+{
+  "shows" : [
+    {
+      "artist" : "JOAN OF ARC",
+      "date" : "2013-08-22T00:00:00Z",
+      "venue" : "GARRISON"
+    },
+    {
+      "artist" : "HUNX & HIS PUNX",
+      "date" : "2013-08-22T00:00:00Z",
+      "venue" : "HARD LUCK"
+    },
+    {
+      "artist" : "SCREAMING FEMALES",
+      "date" : "2013-08-22T00:00:00Z",
+      "venue" : "PARTS & LABOUR"
+    },
+    {
+      "artist" : "MEWITHOUTYOU",
+      "date" : "2013-08-22T00:00:00Z",
+      "venue" : "LEE’S"
+    },
+    {
+      "artist" : "CHIMAIRA",
+      "date" : "2013-08-23T00:00:00Z",
+      "venue" : "ANNEX WRECKROOM"
+    },
+    {
+      "artist" : "MUSIC FOR THE MASSES",
+      "date" : "2013-08-23T00:00:00Z",
+      "venue" : "VARIOUS"
+    },
+    {
+      "artist" : "ADANA TWINS",
+      "date" : "2013-08-23T00:00:00Z",
+      "venue" : "HOXTON"
+    },
+    {
+      "artist" : "JAMIE N COMMONS",
+      "date" : "2013-08-24T00:00:00Z",
+      "venue" : "DRAKE HOTEL"
+    },
+    {
+      "artist" : "RIOT FEST SATURDAY",
+      "date" : "2013-08-24T00:00:00Z",
+      "venue" : "FORT YORK"
+    },
+    {
+      "artist" : "NERD NOISE NIGHT",
+      "date" : "2013-08-24T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "RIOT FEST WEEKEND PASS",
+      "date" : "2013-08-24T00:00:00Z",
+      "venue" : "FORT YORK"
+    },
+    {
+      "artist" : "GRACE POTTER & THE NOCTURNALS",
+      "date" : "2013-08-24T00:00:00Z",
+      "venue" : "DANFORTH MUSIC HALL"
+    },
+    {
+      "artist" : "RIOT FEST SUNDAY",
+      "date" : "2013-08-25T00:00:00Z",
+      "venue" : "FORT YORK"
+    },
+    {
+      "artist" : "GIUDA",
+      "date" : "2013-08-25T00:00:00Z",
+      "venue" : "SNEAKY DEES"
+    },
+    {
+      "artist" : "VOLBEAT / HIM / ALL THAT REMAINS",
+      "date" : "2013-08-26T00:00:00Z",
+      "venue" : "SOUND ACADEMY"
+    },
+    {
+      "artist" : "THE DWARVES / THE QUEERS",
+      "date" : "2013-08-28T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "THE SIDEKICKS / HOP ALONG",
+      "date" : "2013-08-28T00:00:00Z",
+      "venue" : "HARD LUCK"
+    },
+    {
+      "artist" : "ROBERT DELONG",
+      "date" : "2013-08-31T00:00:00Z",
+      "venue" : "WRONGBAR"
+    },
+    {
+      "artist" : "KUTSKI",
+      "date" : "2013-09-01T00:00:00Z",
+      "venue" : "ANNEX WRECKROOM"
+    },
+    {
+      "artist" : "PEGI YOUNG",
+      "date" : "2013-09-01T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "MUDHONEY",
+      "date" : "2013-09-02T00:00:00Z",
+      "venue" : "LEE’S"
+    },
+    {
+      "artist" : "ROBYN HITCHCOCK",
+      "date" : "2013-09-03T00:00:00Z",
+      "venue" : "DRAKE HOTEL"
+    },
+    {
+      "artist" : "ROBYN HITCHCOCK",
+      "date" : "2013-09-04T00:00:00Z",
+      "venue" : "DRAKE HOTEL"
+    },
+    {
+      "artist" : "SNARKY PUPPY",
+      "date" : "2013-09-04T00:00:00Z",
+      "venue" : "LEE’S"
+    },
+    {
+      "artist" : "TYLER HILTON",
+      "date" : "2013-09-04T00:00:00Z",
+      "venue" : "HARD LUCK"
+    },
+    {
+      "artist" : "FLUME",
+      "date" : "2013-09-05T00:00:00Z",
+      "venue" : "OPERA HOUSE"
+    },
+    {
+      "artist" : "ESMERINE / COLIN STETSON",
+      "date" : "2013-09-05T00:00:00Z",
+      "venue" : "GREAT HALL"
+    },
+    {
+      "artist" : "AROARA",
+      "date" : "2013-09-05T00:00:00Z",
+      "venue" : "ST. GEORGE THE MARTYR"
+    },
+    {
+      "artist" : "THE MISSION UK",
+      "date" : "2013-09-06T00:00:00Z",
+      "venue" : "LEE’S"
+    },
+    {
+      "artist" : "JAMES MURPHY",
+      "date" : "2013-09-06T00:00:00Z",
+      "venue" : "HOXTON"
+    },
+    {
+      "artist" : "DARWIN DEEZ",
+      "date" : "2013-09-06T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "TIFT MERRITT",
+      "date" : "2013-09-06T00:00:00Z",
+      "venue" : "DRAKE HOTEL"
+    },
+    {
+      "artist" : "MAYER HAWTHORNE",
+      "date" : "2013-09-06T00:00:00Z",
+      "venue" : "DANFORTH MUSIC HALL"
+    },
+    {
+      "artist" : "FOUR TET",
+      "date" : "2013-09-06T00:00:00Z",
+      "venue" : "GREAT HALL"
+    },
+    {
+      "artist" : "PINBACK",
+      "date" : "2013-09-07T00:00:00Z",
+      "venue" : "LEE’S"
+    },
+    {
+      "artist" : "LAURA MVULA",
+      "date" : "2013-09-07T00:00:00Z",
+      "venue" : "MOD CLUB"
+    },
+    {
+      "artist" : "SUFFOCATION",
+      "date" : "2013-09-07T00:00:00Z",
+      "venue" : "OPERA HOUSE"
+    },
+    {
+      "artist" : "SHOVELS & ROPE",
+      "date" : "2013-09-07T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "OHBIJOU",
+      "date" : "2013-09-07T00:00:00Z",
+      "venue" : "GREAT HALL"
+    },
+    {
+      "artist" : "3LAU",
+      "date" : "2013-09-07T00:00:00Z",
+      "venue" : "HOXTON"
+    },
+    {
+      "artist" : "MICHAEL FRANTI & SPEARHEAD",
+      "date" : "2013-09-07T00:00:00Z",
+      "venue" : "DANFORTH MUSIC HALL"
+    },
+    {
+      "artist" : "DAYGLO ABORTIONS",
+      "date" : "2013-09-07T00:00:00Z",
+      "venue" : "ROCKPILE"
+    },
+    {
+      "artist" : "VOLCANO CHOIR",
+      "date" : "2013-09-08T00:00:00Z",
+      "venue" : "PHOENIX"
+    },
+    {
+      "artist" : "O’BROTHER",
+      "date" : "2013-09-08T00:00:00Z",
+      "venue" : "HARD LUCK"
+    },
+    {
+      "artist" : "CONTINENTAL",
+      "date" : "2013-09-08T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "KITTIE",
+      "date" : "2013-09-08T00:00:00Z",
+      "venue" : "OPERA HOUSE"
+    },
+    {
+      "artist" : "TYLER THE CREATOR",
+      "date" : "2013-09-08T00:00:00Z",
+      "venue" : "SOUND ACADEMY"
+    },
+    {
+      "artist" : "JOHANN JOHANNSSON",
+      "date" : "2013-09-08T00:00:00Z",
+      "venue" : "ST. GEORGE THE MARTYR"
+    },
+    {
+      "artist" : "DESTRUCTION UNIT",
+      "date" : "2013-09-08T00:00:00Z",
+      "venue" : "DRAKE HOTEL"
+    },
+    {
+      "artist" : "ALUNAGEORGE",
+      "date" : "2013-09-09T00:00:00Z",
+      "venue" : "HOXTON"
+    },
+    {
+      "artist" : "EMPIRE OF THE SUN",
+      "date" : "2013-09-09T00:00:00Z",
+      "venue" : "DANFORTH MUSIC HALL"
+    },
+    {
+      "artist" : "KAMELOT",
+      "date" : "2013-09-10T00:00:00Z",
+      "venue" : "OPERA HOUSE"
+    },
+    {
+      "artist" : "LIGHTNING DUST",
+      "date" : "2013-09-10T00:00:00Z",
+      "venue" : "DRAKE HOTEL"
+    },
+    {
+      "artist" : "DIRTY BEACHES",
+      "date" : "2013-09-11T00:00:00Z",
+      "venue" : "GARRISON"
+    },
+    {
+      "artist" : "KING KRULE",
+      "date" : "2013-09-11T00:00:00Z",
+      "venue" : "WRONGBAR"
+    },
+    {
+      "artist" : "LUCY ROSE",
+      "date" : "2013-09-11T00:00:00Z",
+      "venue" : "MOD CLUB"
+    },
+    {
+      "artist" : "ALT-J",
+      "date" : "2013-09-11T00:00:00Z",
+      "venue" : "ECHO BEACH"
+    },
+    {
+      "artist" : "DEERHUNTER",
+      "date" : "2013-09-12T00:00:00Z",
+      "venue" : "PHOENIX"
+    },
+    {
+      "artist" : "ZEDD",
+      "date" : "2013-09-12T00:00:00Z",
+      "venue" : "SOUND ACADEMY"
+    },
+    {
+      "artist" : "HOLLERADO",
+      "date" : "2013-09-13T00:00:00Z",
+      "venue" : "DANFORTH MUSIC HALL"
+    },
+    {
+      "artist" : "PHAELEH",
+      "date" : "2013-09-13T00:00:00Z",
+      "venue" : "DRAKE HOTEL"
+    },
+    {
+      "artist" : "CHET FAKER",
+      "date" : "2013-09-13T00:00:00Z",
+      "venue" : "WRONGBAR"
+    },
+    {
+      "artist" : "DJ SHADOW",
+      "date" : "2013-09-13T00:00:00Z",
+      "venue" : "HOXTON"
+    },
+    {
+      "artist" : "SHIGETO",
+      "date" : "2013-09-13T00:00:00Z",
+      "venue" : "GARRISON"
+    },
+    {
+      "artist" : "OBEY THE BRAVE",
+      "date" : "2013-09-13T00:00:00Z",
+      "venue" : "ANNEX WRECKROOM"
+    },
+    {
+      "artist" : "DUMPSTAPHUNK",
+      "date" : "2013-09-13T00:00:00Z",
+      "venue" : "EL MOCAMBO"
+    },
+    {
+      "artist" : "WALK THE MOON",
+      "date" : "2013-09-14T00:00:00Z",
+      "venue" : "LEE’S"
+    },
+    {
+      "artist" : "STRFKR",
+      "date" : "2013-09-14T00:00:00Z",
+      "venue" : "OPERA HOUSE"
+    },
+    {
+      "artist" : "FALL OUT BOY",
+      "date" : "2013-09-15T00:00:00Z",
+      "venue" : "ECHO BEACH"
+    },
+    {
+      "artist" : "SAXON",
+      "date" : "2013-09-15T00:00:00Z",
+      "venue" : "PHOENIX"
+    },
+    {
+      "artist" : "WASHED OUT",
+      "date" : "2013-09-15T00:00:00Z",
+      "venue" : "OPERA HOUSE"
+    },
+    {
+      "artist" : "DROPKICK MURPHYS",
+      "date" : "2013-09-15T00:00:00Z",
+      "venue" : "SOUND ACADEMY"
+    },
+    {
+      "artist" : "ARCTIC MONKEYS",
+      "date" : "2013-09-15T00:00:00Z",
+      "venue" : "KOOL HAUS"
+    },
+    {
+      "artist" : "CHELSEA LIGHT MOVING",
+      "date" : "2013-09-15T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "SOUND OF CONTACT",
+      "date" : "2013-09-15T00:00:00Z",
+      "venue" : "ROCKPILE"
+    },
+    {
+      "artist" : "CHVRCHES",
+      "date" : "2013-09-15T00:00:00Z",
+      "venue" : "DANFORTH MUSIC HALL"
+    },
+    {
+      "artist" : "CHARLI XCX",
+      "date" : "2013-09-16T00:00:00Z",
+      "venue" : "HOXTON"
+    },
+    {
+      "artist" : "QUEEN KWONG",
+      "date" : "2013-09-16T00:00:00Z",
+      "venue" : "DRAKE HOTEL"
+    },
+    {
+      "artist" : "CHELSEA WOLFE",
+      "date" : "2013-09-17T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "MAJICAL CLOUDZ",
+      "date" : "2013-09-17T00:00:00Z",
+      "venue" : "WRONGBAR"
+    },
+    {
+      "artist" : "MS MR",
+      "date" : "2013-09-17T00:00:00Z",
+      "venue" : "PHOENIX"
+    },
+    {
+      "artist" : "THE SELECTER",
+      "date" : "2013-09-17T00:00:00Z",
+      "venue" : "LEE’S"
+    },
+    {
+      "artist" : "JENNY HVAL",
+      "date" : "2013-09-17T00:00:00Z",
+      "venue" : "RIVOLI"
+    },
+    {
+      "artist" : "SCOUT NIBLETT",
+      "date" : "2013-09-17T00:00:00Z",
+      "venue" : "SILVER DOLLAR"
+    },
+    {
+      "artist" : "HOUSES",
+      "date" : "2013-09-17T00:00:00Z",
+      "venue" : "GARRISON"
+    },
+    {
+      "artist" : "PERE UBU",
+      "date" : "2013-09-18T00:00:00Z",
+      "venue" : "LEE’S"
+    },
+    {
+      "artist" : "ANATHEMA",
+      "date" : "2013-09-18T00:00:00Z",
+      "venue" : "OPERA HOUSE"
+    },
+    {
+      "artist" : "GRAILS",
+      "date" : "2013-09-18T00:00:00Z",
+      "venue" : "DRAKE HOTEL"
+    },
+    {
+      "artist" : "PETER HOOK & THE LIGHT",
+      "date" : "2013-09-19T00:00:00Z",
+      "venue" : "HOXTON"
+    },
+    {
+      "artist" : "BLACK JOE LEWIS",
+      "date" : "2013-09-19T00:00:00Z",
+      "venue" : "LEE’S"
+    },
+    {
+      "artist" : "SHINING",
+      "date" : "2013-09-19T00:00:00Z",
+      "venue" : "ANNEX WRECKROOM"
+    },
+    {
+      "artist" : "HERBERT GRONEMEYER",
+      "date" : "2013-09-20T00:00:00Z",
+      "venue" : "OPERA HOUSE"
+    },
+    {
+      "artist" : "LOCAL NATIVES",
+      "date" : "2013-09-21T00:00:00Z",
+      "venue" : "KOOL HAUS"
+    },
+    {
+      "artist" : "JENN GRANT",
+      "date" : "2013-09-21T00:00:00Z",
+      "venue" : "LEE’S"
+    },
+    {
+      "artist" : "VISTA CHINO",
+      "date" : "2013-09-21T00:00:00Z",
+      "venue" : "PHOENIX"
+    },
+    {
+      "artist" : "KAT EDMONSON",
+      "date" : "2013-09-21T00:00:00Z",
+      "venue" : "EL MOCAMBO"
+    },
+    {
+      "artist" : "WILDCAT! WILDCAT!",
+      "date" : "2013-09-21T00:00:00Z",
+      "venue" : "WRONGBAR"
+    },
+    {
+      "artist" : "MICHAEL MORLEY",
+      "date" : "2013-09-21T00:00:00Z",
+      "venue" : "DOUBLEDOUBLELAND"
+    },
+    {
+      "artist" : "AARON CARTER",
+      "date" : "2013-09-22T00:00:00Z",
+      "venue" : "LEE’S"
+    },
+    {
+      "artist" : "SARAH NEUFELD",
+      "date" : "2013-09-22T00:00:00Z",
+      "venue" : "DRAKE HOTEL"
+    },
+    {
+      "artist" : "SAVES THE DAY",
+      "date" : "2013-09-22T00:00:00Z",
+      "venue" : "HOXTON"
+    },
+    {
+      "artist" : "LEGENDARY PINK DOTS",
+      "date" : "2013-09-23T00:00:00Z",
+      "venue" : "LEE’S"
+    },
+    {
+      "artist" : "STICK TO YOUR GUNS",
+      "date" : "2013-09-24T00:00:00Z",
+      "venue" : "HARD LUCK"
+    },
+    {
+      "artist" : "THE DODOS",
+      "date" : "2013-09-24T00:00:00Z",
+      "venue" : "LEE’S"
+    },
+    {
+      "artist" : "TRIVIUM / DEVILDRIVER",
+      "date" : "2013-09-24T00:00:00Z",
+      "venue" : "PHOENIX"
+    },
+    {
+      "artist" : "NAT BALDWIN",
+      "date" : "2013-09-24T00:00:00Z",
+      "venue" : "MONARCH TAVERN"
+    },
+    {
+      "artist" : "STEREOPHONICS",
+      "date" : "2013-09-25T00:00:00Z",
+      "venue" : "DANFORTH MUSIC HALL"
+    },
+    {
+      "artist" : "BASTILLE",
+      "date" : "2013-09-25T00:00:00Z",
+      "venue" : "OPERA HOUSE"
+    },
+    {
+      "artist" : "HAR MAR SUPERSTAR",
+      "date" : "2013-09-25T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "TOM ODELL",
+      "date" : "2013-09-25T00:00:00Z",
+      "venue" : "GREAT HALL"
+    },
+    {
+      "artist" : "MOE.",
+      "date" : "2013-09-26T00:00:00Z",
+      "venue" : "DANFORTH MUSIC HALL"
+    },
+    {
+      "artist" : "DIANA",
+      "date" : "2013-09-26T00:00:00Z",
+      "venue" : "GREAT HALL"
+    },
+    {
+      "artist" : "ANGEL OLSEN",
+      "date" : "2013-09-26T00:00:00Z",
+      "venue" : "DRAKE HOTEL"
+    },
+    {
+      "artist" : "RAVEN",
+      "date" : "2013-09-26T00:00:00Z",
+      "venue" : "ANNEX WRECKROOM"
+    },
+    {
+      "artist" : "AUSTRA",
+      "date" : "2013-09-27T00:00:00Z",
+      "venue" : "PHOENIX"
+    },
+    {
+      "artist" : "KATATONIA / CULT OF LUNA",
+      "date" : "2013-09-27T00:00:00Z",
+      "venue" : "OPERA HOUSE"
+    },
+    {
+      "artist" : "HELLOWEEN",
+      "date" : "2013-09-28T00:00:00Z",
+      "venue" : "OPERA HOUSE"
+    },
+    {
+      "artist" : "IRON & WINE",
+      "date" : "2013-09-28T00:00:00Z",
+      "venue" : "SOUND ACADEMY"
+    },
+    {
+      "artist" : "OKKERVIL RIVER",
+      "date" : "2013-09-28T00:00:00Z",
+      "venue" : "PHOENIX"
+    },
+    {
+      "artist" : "CLAP YOUR HANDS SAY YEAH",
+      "date" : "2013-09-28T00:00:00Z",
+      "venue" : "LEE’S"
+    },
+    {
+      "artist" : "T. WILLIAMS",
+      "date" : "2013-09-28T00:00:00Z",
+      "venue" : "WRONGBAR"
+    },
+    {
+      "artist" : "VICIOUS RUMORS",
+      "date" : "2013-09-29T00:00:00Z",
+      "venue" : "MOD CLUB"
+    },
+    {
+      "artist" : "DAUGHTER",
+      "date" : "2013-09-29T00:00:00Z",
+      "venue" : "PHOENIX"
+    },
+    {
+      "artist" : "WAVVES",
+      "date" : "2013-09-29T00:00:00Z",
+      "venue" : "OPERA HOUSE"
+    },
+    {
+      "artist" : "WHITE LIES",
+      "date" : "2013-10-01T00:00:00Z",
+      "venue" : "OPERA HOUSE"
+    },
+    {
+      "artist" : "FOXYGEN",
+      "date" : "2013-10-01T00:00:00Z",
+      "venue" : "HOXTON"
+    },
+    {
+      "artist" : "THE GROWLERS",
+      "date" : "2013-10-01T00:00:00Z",
+      "venue" : "LEE’S"
+    },
+    {
+      "artist" : "ACTION BRONSON",
+      "date" : "2013-10-01T00:00:00Z",
+      "venue" : "DANFORTH MUSIC HALL"
+    },
+    {
+      "artist" : "EWERT & THE TWO DRAGONS",
+      "date" : "2013-10-02T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "THIRTY SECONDS TO MARS",
+      "date" : "2013-10-03T00:00:00Z",
+      "venue" : "SOUND ACADEMY"
+    },
+    {
+      "artist" : "SCORPION CHILD",
+      "date" : "2013-10-03T00:00:00Z",
+      "venue" : "HARD LUCK"
+    },
+    {
+      "artist" : "BLISS N ESO",
+      "date" : "2013-10-03T00:00:00Z",
+      "venue" : "WRONGBAR"
+    },
+    {
+      "artist" : "ATLAS GENIUS",
+      "date" : "2013-10-04T00:00:00Z",
+      "venue" : "DANFORTH MUSIC HALL"
+    },
+    {
+      "artist" : "OBITS",
+      "date" : "2013-10-04T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "MISFITS",
+      "date" : "2013-10-04T00:00:00Z",
+      "venue" : "PHOENIX"
+    },
+    {
+      "artist" : "SAN FERMIN",
+      "date" : "2013-10-04T00:00:00Z",
+      "venue" : "DRAKE HOTEL"
+    },
+    {
+      "artist" : "CYRIL HAHN",
+      "date" : "2013-10-04T00:00:00Z",
+      "venue" : "HOXTON"
+    },
+    {
+      "artist" : "LONDON GRAMMAR",
+      "date" : "2013-10-04T00:00:00Z",
+      "venue" : "BLK BOX"
+    },
+    {
+      "artist" : "BIFFY CLYRO",
+      "date" : "2013-10-04T00:00:00Z",
+      "venue" : "OPERA HOUSE"
+    },
+    {
+      "artist" : "ZZ WARD",
+      "date" : "2013-10-05T00:00:00Z",
+      "venue" : "OPERA HOUSE"
+    },
+    {
+      "artist" : "BLITZEN TRAPPER",
+      "date" : "2013-10-05T00:00:00Z",
+      "venue" : "LEE’S"
+    },
+    {
+      "artist" : "BLOODSHOT BILL",
+      "date" : "2013-10-05T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "HANNI EL KHATIB",
+      "date" : "2013-10-06T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "TRICKY",
+      "date" : "2013-10-06T00:00:00Z",
+      "venue" : "MOD CLUB"
+    },
+    {
+      "artist" : "THE SPITS",
+      "date" : "2013-10-06T00:00:00Z",
+      "venue" : "GARRISON"
+    },
+    {
+      "artist" : "HAWKWIND",
+      "date" : "2013-10-07T00:00:00Z",
+      "venue" : "MOD CLUB"
+    },
+    {
+      "artist" : "GOLD PANDA",
+      "date" : "2013-10-08T00:00:00Z",
+      "venue" : "LEE’S"
+    },
+    {
+      "artist" : "TITLE FIGHT",
+      "date" : "2013-10-08T00:00:00Z",
+      "venue" : "MOD CLUB"
+    },
+    {
+      "artist" : "STREETLIGHT MANIFESTO",
+      "date" : "2013-10-08T00:00:00Z",
+      "venue" : "PHOENIX"
+    },
+    {
+      "artist" : "CRYSTAL STILTS",
+      "date" : "2013-10-08T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "DEICIDE",
+      "date" : "2013-10-08T00:00:00Z",
+      "venue" : "ANNEX WRECKROOM"
+    },
+    {
+      "artist" : "BOYCE AVENUE",
+      "date" : "2013-10-09T00:00:00Z",
+      "venue" : "PHOENIX"
+    },
+    {
+      "artist" : "THE RIDE TOUR",
+      "date" : "2013-10-09T00:00:00Z",
+      "venue" : "MOD CLUB"
+    },
+    {
+      "artist" : "SURFER BLOOD",
+      "date" : "2013-10-09T00:00:00Z",
+      "venue" : "LEE’S"
+    },
+    {
+      "artist" : "BASIA BULAT",
+      "date" : "2013-10-10T00:00:00Z",
+      "venue" : "POLISH COMBATANTS"
+    },
+    {
+      "artist" : "ISLANDS",
+      "date" : "2013-10-10T00:00:00Z",
+      "venue" : "GARRISON"
+    },
+    {
+      "artist" : "DEER TICK",
+      "date" : "2013-10-10T00:00:00Z",
+      "venue" : "LEE’S"
+    },
+    {
+      "artist" : "GOBLIN",
+      "date" : "2013-10-11T00:00:00Z",
+      "venue" : "OPERA HOUSE"
+    },
+    {
+      "artist" : "HATEBREED",
+      "date" : "2013-10-11T00:00:00Z",
+      "venue" : "PHOENIX"
+    },
+    {
+      "artist" : "BOY",
+      "date" : "2013-10-11T00:00:00Z",
+      "venue" : "MOD CLUB"
+    },
+    {
+      "artist" : "BASSNECTAR",
+      "date" : "2013-10-11T00:00:00Z",
+      "venue" : "SOUND ACADEMY"
+    },
+    {
+      "artist" : "LEE RANALDO & THE DUST",
+      "date" : "2013-10-11T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "BASIA BULAT",
+      "date" : "2013-10-11T00:00:00Z",
+      "venue" : "POLISH COMBATANTS"
+    },
+    {
+      "artist" : "WATAIN",
+      "date" : "2013-10-12T00:00:00Z",
+      "venue" : "OPERA HOUSE"
+    },
+    {
+      "artist" : "BILLY TALENT",
+      "date" : "2013-10-12T00:00:00Z",
+      "venue" : "SOUND ACADEMY"
+    },
+    {
+      "artist" : "THE 1975",
+      "date" : "2013-10-13T00:00:00Z",
+      "venue" : "MOD CLUB"
+    },
+    {
+      "artist" : "THE NAKED AND FAMOUS",
+      "date" : "2013-10-14T00:00:00Z",
+      "venue" : "SOUND ACADEMY"
+    },
+    {
+      "artist" : "THE MOONDOGGIES",
+      "date" : "2013-10-14T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "BELL X1",
+      "date" : "2013-10-14T00:00:00Z",
+      "venue" : "GREAT HALL"
+    },
+    {
+      "artist" : "TWO DOOR CINEMA CLUB",
+      "date" : "2013-10-15T00:00:00Z",
+      "venue" : "DANFORTH MUSIC HALL"
+    },
+    {
+      "artist" : "YOU ME AT SIX",
+      "date" : "2013-10-15T00:00:00Z",
+      "venue" : "OPERA HOUSE"
+    },
+    {
+      "artist" : "COCOROSIE",
+      "date" : "2013-10-15T00:00:00Z",
+      "venue" : "PHOENIX"
+    },
+    {
+      "artist" : "KEEP SHELLY IN ATHENS",
+      "date" : "2013-10-15T00:00:00Z",
+      "venue" : "WRONGBAR"
+    },
+    {
+      "artist" : "FATHER JOHN MISTY (Reserved Seating)",
+      "date" : "2013-10-15T00:00:00Z",
+      "venue" : "QUEEN ELIZABETH THEATRE"
+    },
+    {
+      "artist" : "UNKNOWN MORTAL ORCHESTRA",
+      "date" : "2013-10-16T00:00:00Z",
+      "venue" : "LEE’S"
+    },
+    {
+      "artist" : "BONOBO",
+      "date" : "2013-10-16T00:00:00Z",
+      "venue" : "SOUND ACADEMY"
+    },
+    {
+      "artist" : "FUZZ",
+      "date" : "2013-10-16T00:00:00Z",
+      "venue" : "PARTS & LABOUR"
+    },
+    {
+      "artist" : "GUTTERMOUTH",
+      "date" : "2013-10-16T00:00:00Z",
+      "venue" : "HARD LUCK"
+    },
+    {
+      "artist" : "FUCK BUTTONS",
+      "date" : "2013-10-16T00:00:00Z",
+      "venue" : "WRONGBAR"
+    },
+    {
+      "artist" : "FRIGHTENED RABBIT",
+      "date" : "2013-10-17T00:00:00Z",
+      "venue" : "KOOL HAUS"
+    },
+    {
+      "artist" : "DELOREAN",
+      "date" : "2013-10-17T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "THE FRONT BOTTOMS",
+      "date" : "2013-10-17T00:00:00Z",
+      "venue" : "HARD LUCK"
+    },
+    {
+      "artist" : "FIDLAR",
+      "date" : "2013-10-18T00:00:00Z",
+      "venue" : "HARD LUCK"
+    },
+    {
+      "artist" : "WOODKID",
+      "date" : "2013-10-18T00:00:00Z",
+      "venue" : "DANFORTH MUSIC HALL"
+    },
+    {
+      "artist" : "CANCER BATS",
+      "date" : "2013-10-18T00:00:00Z",
+      "venue" : "LEE’S"
+    },
+    {
+      "artist" : "MAN MAN",
+      "date" : "2013-10-18T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "SENSES FAIL",
+      "date" : "2013-10-19T00:00:00Z",
+      "venue" : "MOD CLUB"
+    },
+    {
+      "artist" : "NOAH AND THE WHALE",
+      "date" : "2013-10-19T00:00:00Z",
+      "venue" : "PHOENIX"
+    },
+    {
+      "artist" : "SHAD",
+      "date" : "2013-10-19T00:00:00Z",
+      "venue" : "OPERA HOUSE"
+    },
+    {
+      "artist" : "KEN MODE",
+      "date" : "2013-10-19T00:00:00Z",
+      "venue" : "SNEAKY DEES"
+    },
+    {
+      "artist" : "MINUS THE BEAR",
+      "date" : "2013-10-20T00:00:00Z",
+      "venue" : "OPERA HOUSE"
+    },
+    {
+      "artist" : "THE MEN",
+      "date" : "2013-10-20T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "HOODIE ALLEN",
+      "date" : "2013-10-20T00:00:00Z",
+      "venue" : "SOUND ACADEMY"
+    },
+    {
+      "artist" : "LAMB OF GOD / KILLSWITCH ENGAGE",
+      "date" : "2013-10-22T00:00:00Z",
+      "venue" : "KOOL HAUS"
+    },
+    {
+      "artist" : "JACCO GARDNER",
+      "date" : "2013-10-22T00:00:00Z",
+      "venue" : "GARRISON"
+    },
+    {
+      "artist" : "EXAMPLE",
+      "date" : "2013-10-22T00:00:00Z",
+      "venue" : "PHOENIX"
+    },
+    {
+      "artist" : "KID CONGO POWERS & PINK MONKEY BIRDS",
+      "date" : "2013-10-24T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "FRANZ FERDINAND",
+      "date" : "2013-10-24T00:00:00Z",
+      "venue" : "KOOL HAUS"
+    },
+    {
+      "artist" : "THE BEARDS",
+      "date" : "2013-10-25T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "DISAPPEARS / WEEKEND",
+      "date" : "2013-10-25T00:00:00Z",
+      "venue" : "GARRISON"
+    },
+    {
+      "artist" : "THE ORB",
+      "date" : "2013-10-25T00:00:00Z",
+      "venue" : "OPERA HOUSE"
+    },
+    {
+      "artist" : "KING KHAN & THE SHRINES",
+      "date" : "2013-10-26T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "HALLOWEEN FREAKOUT!",
+      "date" : "2013-10-26T00:00:00Z",
+      "venue" : "SOUND ACADEMY"
+    },
+    {
+      "artist" : "TORO Y MOI",
+      "date" : "2013-10-27T00:00:00Z",
+      "venue" : "PHOENIX"
+    },
+    {
+      "artist" : "ORANGE GOBLIN",
+      "date" : "2013-10-27T00:00:00Z",
+      "venue" : "OPERA HOUSE"
+    },
+    {
+      "artist" : "SPIRIT FAMILY REUNION",
+      "date" : "2013-10-27T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "KMFDM",
+      "date" : "2013-10-28T00:00:00Z",
+      "venue" : "PHOENIX"
+    },
+    {
+      "artist" : "MELT BANANA",
+      "date" : "2013-10-29T00:00:00Z",
+      "venue" : "LEE’S"
+    },
+    {
+      "artist" : "THE HEAD AND THE HEART",
+      "date" : "2013-10-31T00:00:00Z",
+      "venue" : "DANFORTH MUSIC HALL"
+    },
+    {
+      "artist" : "JOHNETTE NAPOLITANO",
+      "date" : "2013-10-31T00:00:00Z",
+      "venue" : "DRAKE HOTEL"
+    },
+    {
+      "artist" : "JUSTIN MARTIN",
+      "date" : "2013-11-01T00:00:00Z",
+      "venue" : "HOXTON"
+    },
+    {
+      "artist" : "POLICA",
+      "date" : "2013-11-01T00:00:00Z",
+      "venue" : "MOD CLUB"
+    },
+    {
+      "artist" : "LUCIUS",
+      "date" : "2013-11-01T00:00:00Z",
+      "venue" : "GARRISON"
+    },
+    {
+      "artist" : "BRAIDS",
+      "date" : "2013-11-01T00:00:00Z",
+      "venue" : "GREAT HALL"
+    },
+    {
+      "artist" : "DRIVE BY TRUCKERS / OLD 97′S",
+      "date" : "2013-11-02T00:00:00Z",
+      "venue" : "PHOENIX"
+    },
+    {
+      "artist" : "SPARKS",
+      "date" : "2013-11-02T00:00:00Z",
+      "venue" : "LEE’S"
+    },
+    {
+      "artist" : "KREATOR / OVERKILL",
+      "date" : "2013-11-03T00:00:00Z",
+      "venue" : "OPERA HOUSE"
+    },
+    {
+      "artist" : "THE PRETTY RECKLESS",
+      "date" : "2013-11-04T00:00:00Z",
+      "venue" : "PHOENIX"
+    },
+    {
+      "artist" : "BRONCHO",
+      "date" : "2013-11-04T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "DEATH ANGEL",
+      "date" : "2013-11-04T00:00:00Z",
+      "venue" : "OPERA HOUSE"
+    },
+    {
+      "artist" : "KATE NASH",
+      "date" : "2013-11-05T00:00:00Z",
+      "venue" : "PHOENIX"
+    },
+    {
+      "artist" : "MATT NATHANSON",
+      "date" : "2013-11-05T00:00:00Z",
+      "venue" : "DANFORTH MUSIC HALL"
+    },
+    {
+      "artist" : "JESSIE WARE",
+      "date" : "2013-11-06T00:00:00Z",
+      "venue" : "SOUND ACADEMY"
+    },
+    {
+      "artist" : "FOY VANCE",
+      "date" : "2013-11-06T00:00:00Z",
+      "venue" : "DRAKE HOTEL"
+    },
+    {
+      "artist" : "HOLY GHOST",
+      "date" : "2013-11-06T00:00:00Z",
+      "venue" : "HOXTON"
+    },
+    {
+      "artist" : "THE PAPER KITES",
+      "date" : "2013-11-07T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "DR. DOG",
+      "date" : "2013-11-08T00:00:00Z",
+      "venue" : "OPERA HOUSE"
+    },
+    {
+      "artist" : "SEBADOH",
+      "date" : "2013-11-08T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "AND SO I WATCH YOU FROM AFAR",
+      "date" : "2013-11-09T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "STORY OF THE YEAR",
+      "date" : "2013-11-09T00:00:00Z",
+      "venue" : "PHOENIX"
+    },
+    {
+      "artist" : "DESTROYER",
+      "date" : "2013-11-09T00:00:00Z",
+      "venue" : "GREAT HALL"
+    },
+    {
+      "artist" : "JAMES BLAKE",
+      "date" : "2013-11-10T00:00:00Z",
+      "venue" : "KOOL HAUS"
+    },
+    {
+      "artist" : "HA HA TONKA",
+      "date" : "2013-11-11T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "GWAR",
+      "date" : "2013-11-12T00:00:00Z",
+      "venue" : "PHOENIX"
+    },
+    {
+      "artist" : "DIR EN GREY",
+      "date" : "2013-11-13T00:00:00Z",
+      "venue" : "OPERA HOUSE"
+    },
+    {
+      "artist" : "DARK STAR ORCHESTRA",
+      "date" : "2013-11-14T00:00:00Z",
+      "venue" : "DANFORTH MUSIC HALL"
+    },
+    {
+      "artist" : "MAC MILLER",
+      "date" : "2013-11-15T00:00:00Z",
+      "venue" : "SOUND ACADEMY"
+    },
+    {
+      "artist" : "MONO",
+      "date" : "2013-11-15T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "GARY CLARK JR.",
+      "date" : "2013-11-18T00:00:00Z",
+      "venue" : "DANFORTH MUSIC HALL"
+    },
+    {
+      "artist" : "CROCODILES",
+      "date" : "2013-11-19T00:00:00Z",
+      "venue" : "LEE’S"
+    },
+    {
+      "artist" : "FATES WARNING",
+      "date" : "2013-11-20T00:00:00Z",
+      "venue" : "MOD CLUB"
+    },
+    {
+      "artist" : "FOSSIL COLLECTIVE",
+      "date" : "2013-11-22T00:00:00Z",
+      "venue" : "DRAKE HOTEL"
+    },
+    {
+      "artist" : "BORN RUFFIANS",
+      "date" : "2013-11-22T00:00:00Z",
+      "venue" : "DANFORTH MUSIC HALL"
+    },
+    {
+      "artist" : "A WILHELM SCREAM",
+      "date" : "2013-11-22T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "THE LONE BELLOW",
+      "date" : "2013-11-23T00:00:00Z",
+      "venue" : "HORSESHOE"
+    },
+    {
+      "artist" : "ALESTORM",
+      "date" : "2013-11-28T00:00:00Z",
+      "venue" : "MOD CLUB"
+    },
+    {
+      "artist" : "MONSTER MAGNET",
+      "date" : "2013-12-10T00:00:00Z",
+      "venue" : "LEE’S"
+    },
+    {
+      "artist" : "CHARLES BRADLEY",
+      "date" : "2013-12-12T00:00:00Z",
+      "venue" : "KOOL HAUS"
+    },
+    {
+      "artist" : "THE DEVIL WEARS PRADA",
+      "date" : "2013-12-20T00:00:00Z",
+      "venue" : "PHOENIX"
+    },
+    {
+      "artist" : "ZEDS DEAD",
+      "date" : "2013-12-21T00:00:00Z",
+      "venue" : "SOUND ACADEMY"
+    },
+    {
+      "artist" : "NEUTRAL MILK HOTEL",
+      "date" : "2014-01-19T00:00:00Z",
+      "venue" : "KOOL HAUS"
+    },
+    {
+      "artist" : "NEUTRAL MILK HOTEL",
+      "date" : "2014-01-20T00:00:00Z",
+      "venue" : "KOOL HAUS"
+    }
+  ]
+}

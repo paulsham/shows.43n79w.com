@@ -24,3 +24,11 @@ body {
 .async-view-loading:after {
   content: 'Loading...';
 }
+
+.concert {
+  margin: 0 0 1.0em 0;
+}
+
+span.artist:after {
+  content: ' @ ';
+}

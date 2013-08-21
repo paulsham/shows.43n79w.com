@@ -1,2 +1,5 @@
-<div class="name">{{ concert.artist }}</div>
-<div class="date">{{ 'day.' + concert.date.getDay() | i18n }} {{ 'month.' + (concert.date.getMonth() + 1) | i18n }} {{ concert.date.getDate() }}, {{ concert.date.getFullYear() }}</div>
+<div class="concert">
+  <div class="name">{{ concert.artist }}</div>
+  <div class="date">{{ 'day.' + concert.date.getDay() | i18n }} {{ 'month.' + (concert.date.getMonth() + 1) | i18n }} {{ concert.date.getDate() }}, {{ concert.date.getFullYear() }}</div>
+</div>
+
